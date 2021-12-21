@@ -1,4 +1,4 @@
-/* Tipos primitivos
+//Tipos primitivos
 
 //boolean
 var vDuF = false;
@@ -94,4 +94,4 @@ var ou = true || false;
 console.log(ou);
 
 var nao = ! true;
-console.log(nao);*/
+console.log(nao);
